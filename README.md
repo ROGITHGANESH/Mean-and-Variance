@@ -1,5 +1,6 @@
-##DATE  :
-##EX NO:1 - Mean and variance of a discrete  distribution
+## DATE  :
+
+## EX NO : 1 - Mean and variance of a discrete  distribution
 
 
 # Aim : 
